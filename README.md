@@ -53,3 +53,40 @@ ansible-playbook site.yml
 - Ensures the backend connects to MongoDB in the private subnet using the generated URI
 
 
+
+### Application 
+
+<img width="1609" height="1061" alt="Screenshot 2025-11-28 111651" src="https://github.com/user-attachments/assets/1c2bb0c9-c010-4f13-8961-810d38b61f1c" />
+
+
+
+<img width="1432" height="986" alt="Screenshot 2025-11-28 113724" src="https://github.com/user-attachments/assets/13477307-b2d8-4940-ad81-14d14b2f85c0" />
+
+
+
+<img width="1812" height="722" alt="Screenshot 2025-11-28 113926" src="https://github.com/user-attachments/assets/916247f8-2ce6-4beb-b7a9-1a0702f9a828" />
+
+### Database
+
+
+
+
+
+<img width="1619" height="973" alt="Screenshot 2025-11-28 135615" src="https://github.com/user-attachments/assets/0a80dda9-0c7f-49fe-8c15-ba317404a975" />
+
+
+
+---
+
+### Security hardening
+
+
+<img width="770" height="344" alt="Screenshot 2025-11-28 113849" src="https://github.com/user-attachments/assets/a203343e-a57a-4c41-aace-46965a385560" />
+
+
+<img width="770" height="340" alt="Screenshot 2025-11-28 112518" src="https://github.com/user-attachments/assets/d3fead1c-cc2b-4fd6-96b6-dc8f814c9470" />
+
+
+
+
+
